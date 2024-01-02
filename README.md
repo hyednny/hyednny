@@ -9,5 +9,5 @@
 
 <h4 align="center"> 📚 Studying Tech Stack  </h4>
 <p align="center">
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white&Color=black"/>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white&Color=black"/> <img src="https://img.shields.io/badge/NestJS-#E0234E?style=flat&logoColor=white"/>
 </p>
